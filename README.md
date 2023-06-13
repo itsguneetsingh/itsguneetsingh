@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Guneet Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🔭 I’m currently working on [EcoAir](https://github.com/Guneetconvent2002/EcoAir)
+
+- 🌱 I’m currently learning **AWS Cloud Foundation**
+
+- 👯 I’m looking to collaborate on **Hackathons**
+
+- 🤝 I’m looking for help with **Flutter Project Ideas**
+
+- 📫 How to reach me **itsguneetsingh@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/130pCpIWA88eAUdmca8GUMFOwcXslRuhF/view?usp=sharing](https://drive.google.com/file/d/130pCpIWA88eAUdmca8GUMFOwcXslRuhF/view?usp=sharing)
+
+- ⚡ Fun fact **I am a lazy person.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/itsguneetsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsguneetsingh" height="30" width="40" /></a>

@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Guneet Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 💗 to solve **DSA** Problems on [Leetcode](https://leetcode.com/itsguneetsingh/)
+  
 - 🔭 I’m currently working on [EcoAir](https://github.com/Guneetconvent2002/EcoAir)
 
 - 🌱 I’m currently learning **AWS Cloud Foundation**

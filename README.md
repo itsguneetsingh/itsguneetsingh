@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I am a lazy person.**
 
+
+
 <h3 align="Center">Connect with me:</h3>
 <p align="Center">
 <a href="https://linkedin.com/in/itsguneetsingh" target="blank">

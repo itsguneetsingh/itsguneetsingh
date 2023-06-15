@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **itsguneetsingh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/130pCpIWA88eAUdmca8GUMFOwcXslRuhF/view?usp=sharing](https://drive.google.com/file/d/130pCpIWA88eAUdmca8GUMFOwcXslRuhF/view?usp=sharing)
+- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/130pCpIWA88eAUdmca8GUMFOwcXslRuhF/view?usp=sharing)
 
 - ⚡ Fun fact **I am a lazy person.**
 

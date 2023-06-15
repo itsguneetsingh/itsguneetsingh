@@ -33,7 +33,7 @@
 
 <div align = "center">
 
-<br><br>
+<br>
 
 <h3 >Languages and Tools:</h3>
 <p >  <a href="https://developer.android.com" target="_blank" rel="noreferrer">

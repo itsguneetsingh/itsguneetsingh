@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **itsguneetsingh@gmail.com**
 
-- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/130pCpIWA88eAUdmca8GUMFOwcXslRuhF/view?usp=sharing)
+- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1IO98eg0N3ynyfI3B9z_Vyekllq1rWSWy/view?usp=sharing)
 
 - ⚡ Fun fact **I am a lazy person.**
 
@@ -26,6 +26,7 @@
   <code><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsguneetsingh" height="30" width="40" /></code>
 </a>
 </p>
+
 
 <h3 align="Center">Languages and Tools:</h3>
 <p align="Center">  <a href="https://developer.android.com" target="_blank" rel="noreferrer">

@@ -19,8 +19,9 @@
 
 <br>
 
-<h3 align="Center">Connect with me:</h3>
-<p align="Center">
+<div align = "center">
+<h3>Connect with me:</h3>
+<p>
 <a href="https://linkedin.com/in/itsguneetsingh" target="blank">
   <code><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsguneetsingh" height="30" width="40" /></code>
 </a>
@@ -28,11 +29,14 @@
   <code><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsguneetsingh" height="30" width="40" /></code>
 </a>
 </p>
+</div>
+
+<div align = "center">
 
 <br><br>
 
-<h3 align="Center">Languages and Tools:</h3>
-<p align="Center">  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+<h3 >Languages and Tools:</h3>
+<p >  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></code>
 </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -55,3 +59,4 @@
     </a> <a href="https://unity.com/" target="_blank" rel="noreferrer">
       <code><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></code>
     </a> </p>
+</div>

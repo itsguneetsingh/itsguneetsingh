@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Flutter Project Ideas**
 
-- 📫 How to reach me **itsguneetsingh@gmail.com**
+- 📫 You can reach me through [mail](itsguneetsingh@gmail.com)
 
 - 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1IO98eg0N3ynyfI3B9z_Vyekllq1rWSWy/view?usp=sharing)
 

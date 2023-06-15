@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I am a lazy person.**
 
-
+<br>
 
 <h3 align="Center">Connect with me:</h3>
 <p align="Center">
@@ -29,6 +29,7 @@
 </a>
 </p>
 
+<br><br>
 
 <h3 align="Center">Languages and Tools:</h3>
 <p align="Center">  <a href="https://developer.android.com" target="_blank" rel="noreferrer">

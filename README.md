@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Guneet Singh</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hi, I'm Guneet Singh  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<h3 align="center"><a href="https://shorturl.at/ayGKN"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=EBEBEB&center=true&vCenter=true&width=435&lines=Flutter+Developer;UI+%2F+UX+Designer;AWS+Cloud+Practitioner" alt="Portfolio" /></a></h3>
 - 💗 to solve **DSA** Problems on [Leetcode](https://leetcode.com/itsguneetsingh/)
   
 - 🔭 I’m currently working on [EcoAir](https://github.com/Guneetconvent2002/EcoAir)
